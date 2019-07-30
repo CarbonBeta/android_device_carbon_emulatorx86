@@ -1,0 +1,17 @@
+[
+  {
+   "remote"     : "aosp",
+   "repository" : "platform/device/generic/x86",
+   "target_path": "devices/generic/x86"
+  },
+  {
+   "remote"     : "aosp",
+   "repository" : "platform/device/generic/x86_64",
+   "target_path": "devices/generic/x86_64"
+  },
+  {
+   "remote"     : "aosp",
+   "repository" : "platform/device/generic/mini-emulator-armv7-a-neon",
+   "target_path": "devices/generic/mini-emulator-armv7-a-neon"
+  }
+]
