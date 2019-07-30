@@ -1,5 +1,9 @@
 LOCAL_PATH := device/carbon/emulatorx86_64
 
+# Boot animation
+TARGET_SCREEN_HEIGHT := 2880
+TARGET_SCREEN_WIDTH := 1440
+
 # Inherit device configuration
 $(call inherit-product, $(LOCAL_PATH)/mini_emulator_x86_64.mk)
 
