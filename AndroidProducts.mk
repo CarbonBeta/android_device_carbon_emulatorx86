@@ -15,7 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/mini_emulator_x86_64.mk
-
-COMMON_LUNCH_CHOICES := \
-    mini_emulator_x86_64-userdebug
+    $(LOCAL_DIR)/carbon_emulatorx86_64.mk
